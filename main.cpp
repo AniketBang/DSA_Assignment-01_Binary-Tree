@@ -292,7 +292,7 @@ int main()
 				int a;
 				cin>>a;
 
-				if(a==1)				//Recursive Method test
+				if(a==1)				//Recursive Method test comment
 				{
 					n1.inorder(n1.call());
 					cout<<endl;
